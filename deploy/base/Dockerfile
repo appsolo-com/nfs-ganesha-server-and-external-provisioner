@@ -18,7 +18,7 @@
 #       arm64 architectures.
 #
 # List of Fedora versions: https://en.wikipedia.org/wiki/Fedora_version_history#Version_history
-ARG FEDORA_VERSION=35
+ARG FEDORA_VERSION=36
 
 
 
